@@ -38,6 +38,8 @@
     "eslint-plugin-react": "^6.10.3",
     "mocha": "^3.3.0",
     "react-dom": "^15.5.4",
-    "react-test-renderer": "^15.5.4"
+    "react-test-renderer": "^15.5.4",
+    "sinon": "^2.2.0",
+    "sinon-chai": "^2.10.0"
   }
 }
